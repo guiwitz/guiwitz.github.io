@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-If you are a human or friendly sentient AI: my email is *thomas.julou*, followed immediately by *@normalesup.org*
-
-Thomas Julou  
+Guillaume Witz  
 Computational and Systems Biology  
 Biozentrum – University of Basel  
 Klingelbergstr. 50/70  
