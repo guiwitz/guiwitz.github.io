@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Guillaume Witz
-## Imaging Specialist, [MIC](http://www.mic.unibe.ch/) - [Science IT Support]()http://www.scits.unibe.ch/, Bern University
+## Imaging Specialist, [MIC](http://www.mic.unibe.ch/) - [Science IT Support](http://www.scits.unibe.ch/), Bern University
 
 Content to come soon.
 
