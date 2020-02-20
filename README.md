@@ -1,4 +1,4 @@
-This is the code used to power the personnal website of Guillaume Witz. It is powered by Jekyll nad hosted on Github page.
+This is the code used to power the personnal website of Guillaume Witz. It is powered by Jekyll nad hosted on Github pages.
 The theme is derived from a version of [jekyll-skeleton](https://github.com/awochna/jekyll-skeleton/) (© 2016 Alex Wynter) made by Thomas Julou.
 
 The code of this website (everything **but** Markdown (.md) and YAML (.yml) files) is distributed under the MIT license.
