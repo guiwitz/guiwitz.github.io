@@ -6,6 +6,7 @@ permalink: /
 
 # Guillaume Witz
 ## Imaging Specialist, [MIC](http://www.mic.unibe.ch/) - [Science IT Support](http://www.scits.unibe.ch/), Bern University
+Member of [SwissBIAS](https://swissbias.github.io/).
 
 Content to come soon.
 
