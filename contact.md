@@ -5,13 +5,13 @@ permalink: /contact/
 ---
 
 Guillaume Witz  
-Microscopy Imaging Center
+Microscopy Imaging Center  
 Science IT Support  
 Bern University
 
-Büro 227
-Mathematisches Institut
-Sidlerstrasse 5
+Büro 227  
+Mathematisches Institut  
+Sidlerstrasse 5  
 3012 Bern  
 Switzerland
 
