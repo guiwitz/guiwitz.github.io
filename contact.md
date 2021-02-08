@@ -5,12 +5,16 @@ permalink: /contact/
 ---
 
 Guillaume Witz  
-Computational and Systems Biology  
-Biozentrum – University of Basel  
-Klingelbergstr. 50/70  
-4056 Basel  
+Microscopy Imaging Center
+Science IT Support  
+Bern University
+
+Büro 227
+Mathematisches Institut
+Sidlerstrasse 5
+3012 Bern  
 Switzerland
 
 <hr>
 
-If you visit us, Biozentrum can easily be reached from Basel main station with bus 30 (stop on the left when exiting the station; direction Bad Bf, stop Bernouillanum) and from the airport with bus 50 (stop Kanenfeldplatz). Our lab is on the 6th floor of Pharmazentrum (room PZ6020).
+If you visit us, the Exakte Wissenchafften (ExWi) building can easily be reached by foot from the main train station. In the main passage under the tracks head in the direction *opposite* of the main hall until you reach elevators. Take the elevator to the highest level. Upon exiting, you will be on the *Grosse Schanze* where you will find the main University building. The ExWi building is a bit further right next to it facing the splendind view of the Alps.
